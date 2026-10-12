@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PixelPulse
+
+A modern, high-performance digital agency web application built with Next.js 16, React 19, and Tailwind CSS.
+
 
 ## Getting Started
 
